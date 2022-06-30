@@ -4,7 +4,7 @@ This is an extension for Google Chrome and Firefox that uses AnkiConnect to set 
 
 An example of it working 
 
-![](example.mov)
+https://user-images.githubusercontent.com/1436831/176768518-2bb1e92f-c680-4a50-a80c-4acd71cda990.mov
 
 ## Installation Instructions
 
