@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Jisho To Anki",
+  "description": "Adds buttons to Jisho.org that let you quickly add words into your Anki decks",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://jisho.org/search/*"
+      ],
+      "js": ["jisho-to-anki.js"]
+    }
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "web_accessible_resources": [
+      "jmdict-slim",
+      "sentences"
+  ],
+  "permissions": [
+    "storage",
+    "*://localhost/*"
+  ]
+}
