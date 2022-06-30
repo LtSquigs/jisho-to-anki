@@ -9,6 +9,6 @@ https://user-images.githubusercontent.com/1436831/176768518-2bb1e92f-c680-4a50-a
 ## Installation Instructions
 
 1. Install the addon [AnkiConnect](https://ankiweb.net/shared/info/2055492159) into your instance of Anki
-2. Install the extension for your browser from the Extension Store
+2. Download ZIP release. On Chrome drag the Zip in your extensions. On Firefox idk theres some security shit, google how to install a zip until I get it on the extension store or w/e its called.
 3. Open up the settings page for the extension and configure it for your deck and card types
 4. Go to a Jisho.org search results page, hit an add button, profit
